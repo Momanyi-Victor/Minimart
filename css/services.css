@@ -1,0 +1,33 @@
+#par{
+    font-weight: bold;
+}
+#shipping{
+    color: aqua;
+}
+
+.one{
+    font-style: italic;
+}
+
+#vip{
+    background-color: aqua;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+#main{
+    display: flex;
+}
+
+.customer{
+    background-color: aqua;
+    margin-left: 20px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.customer img{
+    width: 100px;
+}
